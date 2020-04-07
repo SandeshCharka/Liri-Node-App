@@ -33,7 +33,7 @@ The Liri node app takes in any of these four parameters.
 
 ``node liri.js concert-this illenium``
 
-![Concert-this for Illenium](https://github.com/SandeshCharka/Liri-Node-App/blob/master/images/Concert-This.png)
+![Concert-this for Illenium](https://github.com/SandeshCharka/Liri-Node-App/blob/master/images/Concert-this.png)
 
 * Venue Name
 * Venue Location
@@ -41,7 +41,7 @@ The Liri node app takes in any of these four parameters.
 
 ``node liri.js spotify-this-song crawl outta love``
 
-![Concert-this for Illenium](https://github.com/SandeshCharka/Liri-Node-App/blob/master/images/spotify.png)
+![spotify-this-song for Illenium](https://github.com/SandeshCharka/Liri-Node-App/blob/master/images/Spotify.png)
 
 * Artist(s) name
 * Song's name
