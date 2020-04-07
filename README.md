@@ -20,3 +20,28 @@ node liri.js movie-this batman
 
 ![Movie-This for Batman](https://github.com/SandeshCharka/Liri-Node-App/blob/master/images/Movie-This.png)
 
+#### The following is logged and if no movie name is given, the default of "Mr. Nobody" is returned.
+
+  * Title of the movie.
+  * Year the movie came out.
+  * IMDB Rating of the movie.
+  * Rotten Tomatoes Rating of the movie.
+  * Country where the movie was produced.
+  * Language of the movie.
+  * Plot of the movie.
+  * Actors in the movie.
+
+## Technologies Used
+
+* Node JS
+* Javascript
+* OMDB API
+* Spotify API
+* Bands In Town API
+* Moment.JS
+* Axios
+* Dotenv
+
+## Role in development
+
+Solo developer of application.
