@@ -14,9 +14,9 @@ The Liri node app takes in any of these four parameters.
 
 ``spotify-this-song`` ``movie-this`` ``concert-this`` ``do-what-it-says``
 
-## example
+## Examples
 
-node liri.js movie-this batman
+``node liri.js movie-this batman``
 
 ![Movie-This for Batman](https://github.com/SandeshCharka/Liri-Node-App/blob/master/images/Movie-This.png)
 
@@ -30,6 +30,23 @@ node liri.js movie-this batman
   * Language of the movie.
   * Plot of the movie.
   * Actors in the movie.
+
+``node liri.js concert-this illenium``
+
+![Concert-this for Illenium](https://github.com/SandeshCharka/Liri-Node-App/blob/master/images/Concert-This.png)
+
+* Venue Name
+* Venue Location
+* Date of the Event
+
+``node liri.js spotify-this-song crawl outta love``
+
+![Concert-this for Illenium](https://github.com/SandeshCharka/Liri-Node-App/blob/master/images/spotify.png)
+
+* Artist(s) name
+* Song's name
+* Spotify Link
+* Album name
 
 ## Technologies Used
 
