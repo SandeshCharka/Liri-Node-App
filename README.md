@@ -18,5 +18,5 @@ The Liri node app takes in any of these four parameters.
 
 node liri.js movie-this batman
 
-(https://github.com/SandeshCharka/Liri-Node-App/blob/master/images/Movie-This.png)
+![Movie-This for Batman](https://github.com/SandeshCharka/Liri-Node-App/blob/master/images/Movie-This.png)
 
